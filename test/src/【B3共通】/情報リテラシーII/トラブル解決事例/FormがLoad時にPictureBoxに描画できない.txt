@@ -1,0 +1,22 @@
+Public Class Form1
+
+    Private Sub PictureBox1_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles PictureBox1.Paint
+
+
+        'とりあえず動くが、あまりよいやり方ではなさげ
+        Dim g As Graphics = PictureBox1.CreateGraphics() '最初に実行。PictureBox1に絵を描く
+        Dim myBrush As New SolidBrush(Color.Green)  'ブラシの色を設定
+        Dim myFont = New Font("ＭＳ Ｐゴシック", 15) 'フォントの種類を設定
+        g.DrawString("文字も書けます", myFont, myBrush, 0, 0) '文字列の表示
+
+        '以下はリソースを解放するために最後に必ず実行してください
+        myBrush.Dispose()
+        myFont.Dispose()
+        g.Dispose()
+
+        Me.Refresh()
+
+    End Sub
+
+
+End Class

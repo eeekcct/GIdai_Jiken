@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Olympic2Test" project="test" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="olympic.Olympic2Test" time="0.016" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic2Test]">
+    <testcase name="Step1_イベントが開催されたか判定する" classname="olympic.Olympic2Test" time="0.016" displayname="Step1_イベントが開催されたか判定する" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic2Test]/[test:Step1_イベントが開催されたか判定する(olympic.Olympic2Test)]"/>
+  </testsuite>
+</testrun>

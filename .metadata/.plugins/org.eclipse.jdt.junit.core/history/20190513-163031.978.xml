@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Olympic3Test" project="test" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="olympic.Olympic3Test" time="0.015" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]">
+    <testcase name="step04_daysFrom_1_1_To_Test" classname="olympic.Olympic3Test" time="0.015" displayname="step04_daysFrom_1_1_To_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step04_daysFrom_1_1_To_Test(olympic.Olympic3Test)]"/>
+    <testcase name="step05_daysTo_12_31_From_Test" classname="olympic.Olympic3Test" time="0.0" displayname="step05_daysTo_12_31_From_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step05_daysTo_12_31_From_Test(olympic.Olympic3Test)]"/>
+    <testcase name="step03_daysOfMonth_Test" classname="olympic.Olympic3Test" time="0.0" displayname="step03_daysOfMonth_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step03_daysOfMonth_Test(olympic.Olympic3Test)]"/>
+    <testcase name="step01_isLeapYear_Test" classname="olympic.Olympic3Test" time="0.0" displayname="step01_isLeapYear_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step01_isLeapYear_Test(olympic.Olympic3Test)]"/>
+    <testcase name="step02_daysOfYear_Test" classname="olympic.Olympic3Test" time="0.0" displayname="step02_daysOfYear_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step02_daysOfYear_Test(olympic.Olympic3Test)]"/>
+  </testsuite>
+</testrun>

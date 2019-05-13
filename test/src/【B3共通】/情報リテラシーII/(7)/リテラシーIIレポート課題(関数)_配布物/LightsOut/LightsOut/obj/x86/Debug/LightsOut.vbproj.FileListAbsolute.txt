@@ -1,0 +1,12 @@
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.xml
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.Form1.resources
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.Resources.resources
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.vbproj.GenerateResource.Cache
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.exe
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.xml
+C:\Users\unehara\documents\visual studio 2010\Projects\LightsOut\LightsOut\obj\x86\Debug\LightsOut.pdb
+C:\Users\unehara\Documents\【技大デスク】\【講義関連】\情報リテラシーII\H27B2情報リテラシーII\(8)\リテラシーIIレポート課題(関数)_配布物\LightsOut\LightsOut\obj\x86\Debug\LightsOut.exe
+C:\Users\unehara\Documents\【技大デスク】\【講義関連】\情報リテラシーII\H27B2情報リテラシーII\(8)\リテラシーIIレポート課題(関数)_配布物\LightsOut\LightsOut\obj\x86\Debug\LightsOut.xml
+C:\Users\unehara\Documents\【技大デスク】\【講義関連】\情報リテラシーII\H27B2情報リテラシーII\(8)\リテラシーIIレポート課題(関数)_配布物\LightsOut\LightsOut\obj\x86\Debug\LightsOut.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="カテゴリーなし">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="HelloWorld"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Object01"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Object02"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Object03"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Object04"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Olympic2Test"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Olympic2Test2"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Olympic3"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Olympic3Test"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SP"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SPX"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SPX (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Sample01"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Sample01 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q1"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q1 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q1 (2)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q2"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q2 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q2 (2)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q3"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q3 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q4"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="q4 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="sample1"/>
+</category>
+</runner>
