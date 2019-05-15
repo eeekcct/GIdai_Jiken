@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Olympic2 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+		//gitのためのコメント
 		System.out.println("今年は西暦何年ですか？");
 		String strYear = br.readLine();
 		int year = Integer.parseInt(strYear);
