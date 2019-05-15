@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Olympic2Test2" project="test" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="olympic.Olympic2Test2" time="0.0" displayname="Olympic2Test2" uniqueid="[engine:junit-jupiter]/[class:olympic.Olympic2Test2]">
-    <testcase name="Step1_イベントが開催されたか判断する" classname="olympic.Olympic2Test2" time="0.0" displayname="Step1_イベントが開催されたか判断する()" uniqueid="[engine:junit-jupiter]/[class:olympic.Olympic2Test2]/[method:Step1_イベントが開催されたか判断する()]"/>
-  </testsuite>
-</testrun>

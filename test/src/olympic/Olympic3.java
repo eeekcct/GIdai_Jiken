@@ -93,14 +93,14 @@ public class Olympic3 {
 	// Step 08
 	// ==================
 	public static int daysToOpen(int year, int month, int day) {
-		return daysFromNewYearsDayOf2019(2020,7,24) - daysFromNewYearsDayOf2019(year,month,day);
+		return daysBetween(year,month,day,2020,7,24);
 	}
 
 	// ==================
 	// Step 09
 	// ==================
 	public static int daysToClose(int year, int month, int day) {
-		return daysFromNewYearsDayOf2019(2020,8,9) - daysFromNewYearsDayOf2019(year,month,day);
+		return daysBetween(year,month,day,2020,8,9);
 	}
 
 	// ==================

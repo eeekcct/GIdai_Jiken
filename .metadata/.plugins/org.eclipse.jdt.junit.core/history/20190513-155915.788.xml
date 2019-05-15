@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Olympic3Test" project="test" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="olympic.Olympic3Test" time="0.015" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]">
-    <testcase name="step01_isLeapYear_Test" classname="olympic.Olympic3Test" time="0.015" displayname="step01_isLeapYear_Test" uniqueid="[engine:junit-vintage]/[runner:olympic.Olympic3Test]/[test:step01_isLeapYear_Test(olympic.Olympic3Test)]"/>
-  </testsuite>
-</testrun>
