@@ -1,0 +1,14 @@
+package ex190516;
+
+public class q1 {
+
+	public static void main(String[] args)throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		boolean p=false;
+		while(!p){
+			char str = br.readLine();
+			
+		}
+	}
+
+}

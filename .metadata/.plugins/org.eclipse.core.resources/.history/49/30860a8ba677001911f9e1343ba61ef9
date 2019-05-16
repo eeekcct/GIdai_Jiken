@@ -1,0 +1,9 @@
+package test;
+
+public class SampleFunction1 {
+
+	public static void main(String[] args) {
+		int answer = IntStream.rangeClosed(1,10).sum();
+	}
+
+}
