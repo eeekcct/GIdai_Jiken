@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.function.IntPredicate"/>
-<fullyQualifiedTypeName name="java.util.stream.IntStream"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.function.IntBinaryOperator"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.function.IntPredicate"/>
 <fullyQualifiedTypeName name="java.util.function.IntUnaryOperator"/>
+<fullyQualifiedTypeName name="java.util.function.DoubleUnaryOperator"/>
+<fullyQualifiedTypeName name="java.util.function.IntToDoubleFunction"/>
+<fullyQualifiedTypeName name="java.util.function.IntFunction"/>
+<fullyQualifiedTypeName name="java.util.function.LongFunction"/>
+<fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.function.UnaryOperator"/>
 </qualifiedTypeNameHistroy>
