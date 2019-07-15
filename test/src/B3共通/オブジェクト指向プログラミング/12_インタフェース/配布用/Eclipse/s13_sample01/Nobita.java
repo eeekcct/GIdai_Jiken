@@ -1,0 +1,14 @@
+package s13_sample01;
+
+public class Nobita {
+	private Friend friend;
+
+	public void setFriend(Friend friend) {
+		this.friend = friend;
+	}
+
+	public String getAverageScore() {
+		return friend.getAverageScoreOfNobita();
+	}
+
+}
